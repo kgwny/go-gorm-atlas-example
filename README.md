@@ -32,7 +32,7 @@ go get -u gorm.io/driver/mysql
 go get -u ariga.io/atlas/sql/migrate
 ```
 
-### go-lang-migrate のインストール
+### golang-migrate のインストール
 ```
 go get -u github.com/golang-migrate/migrate/v4
 ```
